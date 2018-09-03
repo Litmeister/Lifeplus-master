@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549403156952",
+    "firebase_url": "https://lifeplus-45a36.firebaseio.com",
+    "project_id": "lifeplus-45a36",
+    "storage_bucket": "lifeplus-45a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549403156952:android:8047fda36095f873",
+        "android_client_info": {
+          "package_name": "com.example.robot.lifeplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549403156952-vrhjk0ku1ha3thfptmovts9cco4lu3uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robot.lifeplus",
+            "certificate_hash": "fded842b6752553200eb84a0cc42698c301bbeab"
+          }
+        },
+        {
+          "client_id": "549403156952-gokeqnarnpb3h954stv7u4cioh1tshi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLNJNcvld-4Stwtxoj3zmK0xMvUF54l8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549403156952-gokeqnarnpb3h954stv7u4cioh1tshi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
